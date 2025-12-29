@@ -1,7 +1,7 @@
 # Mohomed Haflullah
 
 Project Management Intern | Agile & PMO Support  
-IT Undergraduate | Client-Based Delivery & Digital Transformation Projects  
+Client-Based Delivery & Digital Transformation Projects  
 Preparing for Project Management Opportunities in Dubai
 
 ---
@@ -9,7 +9,7 @@ Preparing for Project Management Opportunities in Dubai
 ## About Me
 I am an early-career Project Management professional with hands-on experience supporting Agile delivery, PMO coordination, and client-based digital transformation initiatives. My background combines structured project execution, stakeholder communication, and practical use of industry-standard tools across technical, operational, and service-oriented environments.
 
-I have worked on delivery simulations, internal Agile teams, and client-facing projects, focusing on workflow management, backlog tracking, documentation, and delivery readiness. I am currently preparing for junior Project Management / PMO roles, with a long-term goal of building a sustainable project management career in the Dubai market.
+I have worked on enterprise-style delivery simulations, internal Agile teams, and client-facing projects, focusing on workflow management, backlog tracking, documentation, and delivery readiness. I am currently preparing for junior Project Management / PMO roles, with a long-term goal of building a sustainable project management career in the Dubai market.
 
 ---
 
@@ -127,49 +127,48 @@ Self-directed Agile sprint execution focused on strengthening delivery disciplin
 ### Foundations of Project Management
 **Google Project Management – Coursera**  
 Strong foundation in project lifecycle, stakeholder management, risk awareness, scheduling, and delivery coordination.  
-🔗 https://www.coursera.org/account/accomplishments/verify/5CSZMS7ZSA7H
+🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/5CSZMS7ZSA7H)
 
 ---
 
 ### Get Started with Jira (Project)
 **Coursera**  
 Hands-on Agile project focused on workflow configuration, backlog management, issue tracking, and delivery execution using Jira.  
-🔗 https://www.coursera.org/account/accomplishments/verify/JBRYA3RQMT3W
+🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/JBRYA3RQMT3W)
 
 ---
 
 ### Introduction to Jira
 **Coursera**  
 Practical exposure to Agile boards, workflows, issue tracking, and task management using Jira.  
-🔗 https://www.coursera.org/account/accomplishments/verify/IH6G6VVVMGJJ
+🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/IH6G6VVVMGJJ)
 
 ---
 
 ### Scrum Fundamentals Certified (SFC)
 **SCRUMstudy**  
 Validated understanding of Scrum roles, events, artifacts, and Agile delivery principles.  
-🔗 https://www.scrumstudy.com/certification/verify?type=SFC&number=1111419
+🔗 [View Credential](https://www.scrumstudy.com/certification/verify?type=SFC&number=1111419)
 
 ---
 
 ### Google AI Essentials
 **Google – Coursera**  
 Foundational understanding of AI concepts, responsible AI use, and practical applications in business environments.  
-🔗 https://www.coursera.org/account/accomplishments/specialization/B4XS7Q5WCULL
+🔗 [View Credential](https://www.coursera.org/account/accomplishments/specialization/B4XS7Q5WCULL)
 
 ---
 
 ### Python for Data Science, AI & Development
 **Coursera**  
 Applied Python fundamentals for data handling, logic building, and AI-related problem solving.  
-🔗 https://www.coursera.org/account/accomplishments/verify/4S0XTFE4UH91
+🔗 [View Credential](https://www.coursera.org/account/accomplishments/verify/4S0XTFE4UH91)
 
 ---
 
 ## Skills
 - Project Coordination & PMO Support  
-- Agile & Kanban Methodologies  
-- Scrum Practices  
+- Agile, Kanban & Scrum Practices  
 - Stakeholder Communication & Client Handling  
 - Jira, Trello, Notion, WordPress  
 - Workflow, Backlog & Task Management  
@@ -178,6 +177,6 @@ Applied Python fundamentals for data handling, logic building, and AI-related pr
 ---
 
 ## Contact
-- LinkedIn: https://www.linkedin.com/in/mohomed-haflullah  
-- Email: mohomedhaflullah@gmail.com  
-- Portfolio: https://haflullah.github.io
+- **LinkedIn:** [linkedin.com/in/mohomed-haflullah](https://www.linkedin.com/in/mohomed-haflullah)  
+- **Email:** [mohomedhaflullah@gmail.com](mailto:mohomedhaflullah@gmail.com)  
+- **Portfolio:** [haflullah.github.io](https://haflullah.github.io)
