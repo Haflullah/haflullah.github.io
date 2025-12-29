@@ -15,37 +15,46 @@ I am currently building a strong foundation for junior Project Management / PMO 
 ## Projects
 
 ### Agile Lifecycle Execution & Jira Project Setup
-Hands-on Agile delivery simulation translating theory into real execution using Jira.
+Hands-on Agile delivery simulation translating Agile theory into real-world execution using Jira.
 
-- Configured custom workflows with enforced quality gates  
+- Configured structured workflows with quality gates  
 - Applied WIP limits to optimize delivery flow  
 - Managed backlog prioritization, task tracking, and deployment readiness  
 
 **Skills:** Jira, Agile Methodology, Kanban, Workflow Management
 
-![Jira Kanban Board](images/Agile_Jira_Kanban_Board.png)
-*Jira board showing workflow stages, WIP limits, and task progression.*
+<br>
+<img src="images/Agile_Jira_Kanban_Board.png" width="700">
 
-![Jira Project Timeline](images/Agile_Jira_Project_Timeline.png)
-*Timeline view illustrating epic-level planning and delivery tracking.*
+<p><em>Jira Kanban board showing workflow stages, WIP limits, and task progression.</em></p>
+
+<br>
+<img src="images/Agile_Jira_Project_Timeline.png" width="700">
+
+<p><em>Timeline view illustrating epic-level planning and delivery tracking.</em></p>
 
 ---
 
 ### MM Caterings – Digital Transformation Project
 Client-based digital transformation case study for a Galle-based catering service, focused on streamlining event orders and festival food distribution using zero-cost tools.
 
-- Worked directly with the business owner to gather requirements  
+- Worked directly with the business owner to gather requirements and understand operational challenges  
 - Defined project scope, risks, constraints, and success criteria  
 - Delivered a multilingual customer platform and QR-based order verification process  
-- Managed delivery using Agile practices and structured documentation  
+- Managed execution using Agile practices with Trello  
+- Maintained structured documentation across the full project lifecycle  
 
 **Skills:** Project Coordination, Stakeholder Management, Trello, Notion, WordPress
 
-![Trello Client Project Board](images/Agile_Trello_Client_Project_Board.png)
-*Trello board used for backlog management, sprint execution, and delivery tracking.*
+<br>
+<img src="images/Agile_Trello_Client_Project_Board.png" width="700">
 
-![Notion Project Documentation](images/Notion_PM_Project_Portfolio_MM_Caterings.png)
-*Notion workspace used for project charter, documentation, and lifecycle tracking.*
+<p><em>Trello board used for backlog management, sprint execution, review, and delivery tracking.</em></p>
+
+<br>
+<img src="images/Notion_PM_Project_Portfolio_MM_Caterings.png" width="700">
+
+<p><em>Notion workspace used for project charter creation, documentation, and lifecycle tracking.</em></p>
 
 ---
 
